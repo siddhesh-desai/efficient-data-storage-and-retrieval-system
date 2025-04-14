@@ -81,18 +81,20 @@ Example:
 ```
 Roll No: 101
 Name: Ravi
-Marks: 92
+Last Name:Bhatt
+Course:ICT
+Hostel Name-XYZ
 ```
 
 ---
 
 ## 🔮 Future Plans
 
-- Add functionality to **update/edit** existing student records
-- Use **password hashing** for secure authentication
+- Getline function should be used instead of cin for storing strings 
+- Use **password hashing** for secure authentication.
 - Implement a **graphical user interface (GUI)** with Qt or other libraries
-- Add **sorting and filtering** in CSV export
-- Integrate with **Arduino** hardware (e.g., LEDs or buzzers for feedback)
+- Could add sort function so that the user find easier method to search
+- 
 
 ---
 
