@@ -101,8 +101,6 @@ Hostel Name-XYZ
 ## 📃 License
 
 This project is open source under the [MIT License](LICENSE).
-```
 
----
 
-Would you like this in a downloadable `.md` file or want to include some screenshots or diagrams later?
+
