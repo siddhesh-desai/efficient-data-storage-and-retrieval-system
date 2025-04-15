@@ -89,6 +89,9 @@ Hostel Name-XYZ
 ```
 
 ---
+## 🖼️ Screenshot
+
+![Screenshot]()
 
 ## 🔮 Future Plans
 
