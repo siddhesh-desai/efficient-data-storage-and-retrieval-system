@@ -1,6 +1,6 @@
 
 # Student Record Management System
-
+![IMAGE](https://github.com/DhairyaDave08/efficient-data-storage-and-retrieval-system/blob/main/images/B-Tree-logo.png)
 A **C++ based Student Record Management System** featuring:
 
 - Password-protected authentication
