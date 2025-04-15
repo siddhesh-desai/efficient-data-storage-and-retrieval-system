@@ -75,7 +75,9 @@ A **C++ based Student Record Management System** featuring:
 Each student record contains:
 - Roll No (Integer)
 - Name (String)
-- Marks (Integer)
+- Last Name (String)
+- Course (String)
+- Hostel Name (String)
 
 Example:
 ```
@@ -94,7 +96,6 @@ Hostel Name-XYZ
 - Use **password hashing** for secure authentication.
 - Implement a **graphical user interface (GUI)** with Qt or other libraries
 - Could add sort function so that the user find easier method to search
-- 
 
 ---
 
