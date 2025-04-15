@@ -91,7 +91,7 @@ Hostel Name-XYZ
 ---
 ## 🖼️ Screenshot
 
-![Screenshot]()
+![Screenshot](https://github.com/DhairyaDave08/efficient-data-storage-and-retrieval-system/blob/main/images/B-Tree-screenshot.png)
 
 ## 🔮 Future Plans
 
