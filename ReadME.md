@@ -32,6 +32,7 @@ A **C++ based Student Record Management System** featuring:
 - **B-Tree**: Core structure used for indexing and managing student records
 - **File Streams**: For reading/writing persistent data
 - **Arrays and Strings**: Used in basic data handling
+- **Map and Vectors**: Used for storing course key
 
 ---
 
@@ -102,7 +103,7 @@ Hostel Name-XYZ
 
 ---
 ## Contribution
-- Added Batch wise feature in the listing section to enhance UI
+- Added Course wise feature in the listing section to enhance UI
 - exportToCSV() for exporting data
 - Auth class for secure login and registration
 ---
