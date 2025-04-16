@@ -101,7 +101,11 @@ Hostel Name-XYZ
 - Could add sort function so that the user find easier method to search
 
 ---
-
+## Contribution
+- Added Batch wise feature in the listing section to enhance UI
+- exportToCSV() for exporting data
+- Auth class for secure login and registration
+---
 ## 📃 License
 
 This project is open source under the [MIT License](LICENSE).
