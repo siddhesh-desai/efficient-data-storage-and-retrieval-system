@@ -68,7 +68,12 @@ A **C++ based Student Record Management System** featuring:
 
 3. **Login**
    Enter the password when prompted (default is hardcoded in the code).
+### Credentials
 
+```sh
+  Enter Username: Siddhesh
+  Enter Password: 12345
+```
 ---
 
 ## 📝 Record Format
